@@ -22,6 +22,7 @@ function App() {
  
     <BrowserRouter>
     <Login />
+    
      {/* <div className='flex'>
         <Sidebar sideBarToggle={sideBarToggle} />
         <Dashboard 

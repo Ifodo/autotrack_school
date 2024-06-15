@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ifodo.github.io/autotrack_school_app",
+  "homepage": "https://ifodo.github.io/autotrack_school",
   "name": "autotrack_school",
   "private": true,
   "proxy": "http://localhost:5173/",
