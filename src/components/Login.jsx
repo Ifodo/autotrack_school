@@ -69,7 +69,7 @@ const Login = () => {
             <img src={image_one} alt="Autotrack Solutions" class="absolute inset-0 h-full w-full object-cover" />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40"></div>
             <h3 class="z-10 mt-10 text-3xl font-bold text-white"><img src={image_two} /></h3>
-            <div class="z-10 gap-y-1 overflow-hidden text-sm leading-6 text-gray-300">Solutions</div>
+            <div class="z-10 gap-y-1 overflow-hidden text-sm leading-6 text-gray-300">Solutions A</div>
           </article>
         </aside>
         <form noValidate onSubmit={handleSubmits} className="w-2/6">
